@@ -2,6 +2,8 @@
 content_type: page
 description: Instructions for in-class role playing exercises, a cultural self-assessment
   and a book essay.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

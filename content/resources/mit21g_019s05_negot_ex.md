@@ -4,6 +4,8 @@ description: This resource contains the information regarding 964 neg role play.
 file: /courses/21g-019-communicating-across-cultures-spring-2005/08e41fd8498c65900eb20e9946608d19_MIT21G_019S05_negot_ex.pdf
 file_size: 654270
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
