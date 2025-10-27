@@ -5,8 +5,6 @@ description: This resource contains the information regarding Some questions to 
 file: /courses/21g-019-communicating-across-cultures-spring-2005/faf52981f1b301ab784b75961580e323_MIT21G_019S05_cult_quest.pdf
 file_size: 156074
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
